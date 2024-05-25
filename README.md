@@ -5,6 +5,10 @@ Bu proje, Bursa şehrinin ulaşım sistemini simüle etmek üzere tasarlanmışt
 
 **_Projenin detaylı raporu proje dosyaları arasında mevcuttur._**
 
+**.mwb** Uzantılı dosyayı **MySQL Workbench** isimli program ile açılabilir ve tablo yapısı, kazayağı gösterimi canlı olarak görüntülenebilir.
+
+Mysql Workbench: https://www.mysql.com/products/workbench/
+
 ## Modüller
 - Araçlar: Ulaşım ağındaki araçların bilgilerini içeren tablodur. Her aracın bir tipi, modeli ve plakası vardır.
 - Kartlar: Aktif ulaşım kartlarının bilgilerini içeren tablodur. Her kart bir tipe ve sahibine bağlıdır ve bir bakiyesi bulunur.
